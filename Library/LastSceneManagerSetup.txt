@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/canvas_6_split.unity
+  isLoaded: 1
+  isActive: 1
